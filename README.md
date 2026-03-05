@@ -24,7 +24,8 @@ python app.py
 3 Open the browser link to generate dream images.
 
 -Example Input:
-Flying above a glowing city
+
 
 -Output:
 AI generated dream image based on the description.
+![DREAM OUTPUT](https://github.com/Snehalatha345/AI-Based-Dream-Visualizer/blob/79894f85bf61c5c702fc24a57ad20ed77897cbf1/results./result%201.jpeg)
