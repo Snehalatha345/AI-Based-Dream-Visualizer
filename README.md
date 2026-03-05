@@ -29,3 +29,4 @@ python app.py
 -Output:
 AI generated dream image based on the description.
 ![DREAM OUTPUT](https://github.com/Snehalatha345/AI-Based-Dream-Visualizer/blob/79894f85bf61c5c702fc24a57ad20ed77897cbf1/results./result%201.jpeg)
+![DREAM OUTPUT](https://github.com/Snehalatha345/AI-Based-Dream-Visualizer/blob/ff2cdaa4379a3649adb1316cc019341f0cbb515e/results./result%202.jpeg)
