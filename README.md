@@ -19,9 +19,8 @@ By leveraging deep learning models, the system generates creative visual interpr
 - Stable Diffusion  
 - Gradio  
 
-
 ## Project Structure
-AI-Based-Dream-Visualizer  │  
+AI-Based-Dream-Visualizer   
 ├── app.py                # Gradio web interface  
 ├── model.py              # Image generation logic  
 ├── requirements.txt      # Python dependencies  
@@ -29,12 +28,10 @@ AI-Based-Dream-Visualizer  │
 ├── results/              # Generated images  
 └── README.md             # Project documentation  
 
-
 ## Installation
  1. Clone the repository
  2. Navigate to the project folder
  3. Install dependencies
-
 
 ## Running the Application
 Run the application using:
@@ -55,10 +52,12 @@ You can try prompts such as:
 Example generated dream images.
 
 Dream: A childrens bedroom with nature picture on the wall
+
 AI generated dream image based on the description.
 ![DREAM OUTPUT](https://github.com/Snehalatha345/AI-Based-Dream-Visualizer/blob/79894f85bf61c5c702fc24a57ad20ed77897cbf1/results./result%201.jpeg)
 
 Dream: Office room
+
 AI generated dream image based on the description.
 ![DREAM OUTPUT](https://github.com/Snehalatha345/AI-Based-Dream-Visualizer/blob/ff2cdaa4379a3649adb1316cc019341f0cbb515e/results./result%202.jpeg)
 
